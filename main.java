@@ -1,6 +1,8 @@
 Class A
 {
   
+addNumber(){
 
+}
 
 }
