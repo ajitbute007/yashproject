@@ -4,5 +4,8 @@ Class A
 addNumber(){
 
 }
+addAfterLocalCahnge(){
 
+    
+}
 }
